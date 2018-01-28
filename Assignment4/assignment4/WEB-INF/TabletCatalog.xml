@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><TabletCatalog>
+
+	
+	
+	<tablet id="007" retailer="Smartportable">
+        <tabletImage>images/galaxytabA.jpg</tabletImage>
+        <tabletName>Galaxy Tab A</tabletName>
+		<tabletCompany>Samsung</tabletCompany>
+        <tabletCondition>New</tabletCondition>
+        <tabletPrice>299.59</tabletPrice>
+		<tabletColor>Navy Blue</tabletColor>
+    </tablet>
+	
+	<tablet id="008" retailer="Smartportable">
+        <tabletImage>images/iconiaOne.jpg</tabletImage>
+        <tabletName>Iconia One</tabletName>
+		<tabletCompany>Acer</tabletCompany>
+        <tabletCondition>Refurbished</tabletCondition>
+        <tabletPrice>110</tabletPrice>
+		<tabletColor>White</tabletColor>
+    </tablet>
+	
+	<tablet id="009" retailer="Smartportable">
+        <tabletImage>images/fire7.jpg</tabletImage>
+        <tabletName>Fire 7</tabletName>
+		<tabletCompany>Amazon</tabletCompany>
+        <tabletCondition>New</tabletCondition>
+        <tabletPrice>49.99</tabletPrice>
+		<tabletColor>Black</tabletColor>
+    </tablet>
+	
+	<tablet id="010" retailer="Smartportable">
+        <tabletImage>images/ipadMini2.jpg</tabletImage>
+        <tabletName>iPad Mini 2</tabletName>
+		<tabletCompany>Apple</tabletCompany>
+        <tabletCondition>New</tabletCondition>
+        <tabletPrice>269.99</tabletPrice>
+		<tabletColor>Grey</tabletColor>
+    </tablet>
+
+<tablet id="41207" retailer="BestDeal"><tabletImage>images/ipadAir2.jpg</tabletImage><tabletName>iPad Air 1</tabletName><tabletCompany>Apple</tabletCompany><tabletCondition>New</tabletCondition><tabletPrice>389.0</tabletPrice><tabletColor>Black</tabletColor></tablet></TabletCatalog>

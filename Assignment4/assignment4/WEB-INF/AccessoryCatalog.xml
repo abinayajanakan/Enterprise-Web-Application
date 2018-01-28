@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><AccessoryCatalog>
+
+	<accessory id="031" retailer="Smartportable">
+        <accessoryImage>images/galaxyS7.jpg</accessoryImage>
+        <accessoryName>Fast Charge</accessoryName>
+		<accessoryCompany>Samsung</accessoryCompany>
+        <accessoryCondition>New</accessoryCondition>
+        <accessoryPrice>41.90</accessoryPrice>
+		<accessoryColor>Navy Blue</accessoryColor>
+    </accessory>
+	
+	<accessory id="032" retailer="Smartportable">
+        <accessoryImage>images/galaxyS7.jpg</accessoryImage>
+        <accessoryName>Gear VR	</accessoryName>
+		<accessoryCompany>Samsung</accessoryCompany>
+        <accessoryCondition>New</accessoryCondition>
+        <accessoryPrice>59.99</accessoryPrice>
+		<accessoryColor>White</accessoryColor>
+    </accessory>
+	
+	<accessory id="033" retailer="Smartportable">
+        <accessoryImage>images/iPhone7.jpg</accessoryImage>
+        <accessoryName>iPhone6 Charger</accessoryName>
+		<accessoryCompany>Apple</accessoryCompany>
+        <accessoryCondition>New</accessoryCondition>
+        <accessoryPrice>8.99</accessoryPrice>
+		<accessoryColor>White</accessoryColor>
+    </accessory>
+	
+	<accessory id="034" retailer="Smartportable">
+        <accessoryImage>images/motog4.jpg</accessoryImage>
+        <accessoryName>Moto G4 Case</accessoryName>
+		<accessoryCompany>Motorola</accessoryCompany>
+        <accessoryCondition>New</accessoryCondition>
+        <accessoryPrice>7.89</accessoryPrice>
+		<accessoryColor>Black</accessoryColor>
+    </accessory>
+	
+</AccessoryCatalog>
