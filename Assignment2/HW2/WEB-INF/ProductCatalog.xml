@@ -1,0 +1,660 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ProductCatalog>
+
+    <smartwatch id="001">
+        <image>iPhone7.jpg</image>
+        <name>apple_Watch</name>
+         <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <price>799.99</price>
+        <discount>10.0</discount>
+		
+		
+        <accessories>
+            <accessory>watch_charger</accessory>
+            <accessory>watch_Strap</accessory>
+        </accessories>
+    </smartwatch>
+	<smartwatch id="002">
+        <image>iPhone7.jpg</image>
+        <name>apple_Watch_1</name>
+         <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <price>799.99</price>
+        <discount>10.0</discount>
+		
+		
+        <accessories>
+            <accessory>watch_charger</accessory>
+            <accessory>watch_Strap</accessory>
+        </accessories>
+    </smartwatch>
+
+     <smartwatch id="003">
+        <image>iPhone7.jpg</image>
+        <name>m_Watch</name>
+         <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <price>799.99</price>
+        <discount>10.0</discount>
+		
+		
+        <accessories>
+            <accessory>watch_charger</accessory>
+            <accessory>watch_Strap</accessory>
+        </accessories>
+    </smartwatch>
+
+
+<smartwatch id="004">
+        <image>iPhone7.jpg</image>
+        <name>m_Watch1</name>
+         <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <price>799.99</price>
+        <discount>10.0</discount>
+		
+		
+        <accessories>
+            <accessory>watch_charger</accessory>
+            <accessory>watch_Strap</accessory>
+        </accessories>
+    </smartwatch>
+
+<smartwatch id="004">
+        <image>iPhone7.jpg</image>
+        <name>s_Watch</name>
+         <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <price>799.99</price>
+        <discount>10.0</discount>
+		
+		
+        <accessories>
+            <accessory>watch_charger</accessory>
+            <accessory>watch_Strap</accessory>
+        </accessories>
+    </smartwatch>
+
+
+<smartwatch id="004">
+        <image>iPhone7.jpg</image>
+        <name>s_Watch1</name>
+         <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <price>799.99</price>
+        <discount>10.0</discount>
+		
+		
+        <accessories>
+            <accessory>watch_charger</accessory>
+            <accessory>watch_Strap</accessory>
+        </accessories>
+    </smartwatch>
+
+
+<speaker id="005">
+        <image>iPhone7.jpg</image>
+        <name>speaker</name>
+         <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <price>799.99</price>
+        <discount>10.0</discount>
+		
+		
+        <accessories>
+            <accessory>audio_cable</accessory>
+            <accessory>audio_transmitter</accessory>
+        </accessories>
+    </speaker>
+
+
+<speaker id="006">
+        <image>iPhone7.jpg</image>
+        <name>speaker1</name>
+         <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <price>799.99</price>
+        <discount>10.0</discount>
+		
+		
+        <accessories>
+            <accessory>audio_cable</accessory>
+            <accessory>audio_transmitter</accessory>
+        </accessories>
+    </speaker>
+
+
+<speaker id="007">
+        <image>iPhone7.jpg</image>
+        <name>speaker_m</name>
+         <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <price>799.99</price>
+        <discount>10.0</discount>
+		
+		
+        <accessories>
+            <accessory>audio_cable</accessory>
+            <accessory>audio_transmitter</accessory>
+        </accessories>
+    </speaker>
+
+
+<speaker id="007">
+        <image>iPhone7.jpg</image>
+        <name>speaker_m1</name>
+         <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <price>799.99</price>
+        <discount>10.0</discount>
+		
+		
+        <accessories>
+            <accessory>audio_cable</accessory>
+            <accessory>audio_transmitter</accessory>
+        </accessories>
+    </speaker>
+
+
+<speaker id="008">
+        <image>iPhone7.jpg</image>
+        <name>speaker_s</name>
+         <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <price>799.99</price>
+        <discount>10.0</discount>
+		
+		
+        <accessories>
+            <accessory>audio_cable</accessory>
+            <accessory>audio_transmitter</accessory>
+        </accessories>
+    </speaker>
+
+<speaker id="009">
+        <image>iPhone7.jpg</image>
+        <name>speaker_s1</name>
+         <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <price>799.99</price>
+        <discount>10.0</discount>
+		
+		
+        <accessories>
+            <accessory>audio_cable</accessory>
+            <accessory>audio_transmitter</accessory>
+        </accessories>
+    </speaker>
+
+<headphone id="010">
+    <image>iPhone7.jpg</image>
+        <name>headphone</name>
+         <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <price>799.99</price>
+        <discount>10.0</discount>
+		
+		
+        <accessories>
+            <accessory>case</accessory>
+            <accessory>ear_cushion</accessory>
+        </accessories>
+    </headphone>
+
+
+<headphone id="011">
+    <image>iPhone7.jpg</image>
+        <name>headphone1</name>
+         <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <price>799.99</price>
+        <discount>10.0</discount>
+		
+		
+        <accessories>
+            <accessory>case</accessory>
+            <accessory>ear_cushion</accessory>
+        </accessories>
+    </headphone>
+
+<headphone id="012">
+    <image>iPhone7.jpg</image>
+        <name>headphonem</name>
+         <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <price>799.99</price>
+        <discount>10.0</discount>
+		
+		
+        <accessories>
+            <accessory>case</accessory>
+            <accessory>ear_cushion</accessory>
+        </accessories>
+    </headphone>
+
+<headphone id="013">
+    <image>iPhone7.jpg</image>
+        <name>headphonem1</name>
+         <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <price>799.99</price>
+        <discount>10.0</discount>
+		
+		
+        <accessories>
+            <accessory>case</accessory>
+            <accessory>ear_cushion</accessory>
+        </accessories>
+    </headphone>
+
+<headphone id="014">
+    <image>iPhone7.jpg</image>
+        <name>headphonesm</name>
+         <manufacturer>sony</manufacturer>
+        <condition>New</condition>
+        <price>799.99</price>
+        <discount>10.0</discount>
+		
+		
+        <accessories>
+            <accessory>case</accessory>
+            <accessory>ear_cushion</accessory>
+        </accessories>
+    </headphone>
+
+<headphone id="015">
+    <image>iPhone7.jpg</image>
+        <name>headphoness1</name>
+         <manufacturer>sony</manufacturer>
+        <condition>New</condition>
+        <price>799.99</price>
+        <discount>10.0</discount>
+		
+		
+        <accessories>
+            <accessory>case</accessory>
+            <accessory>ear_cushion</accessory>
+        </accessories>
+    </headphone>
+
+
+<phone id="016">
+    <image>iPhone7.jpg</image>
+        <name>phones</name>
+         <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <price>799.99</price>
+        <discount>10.0</discount>
+		
+		
+        <accessories>
+            <accessory>case</accessory>
+            <accessory>ear_cushion</accessory>
+        </accessories>
+    </phone>
+        
+
+<phone id="017">
+    <image>iPhone7.jpg</image>
+        <name>phones</name>
+         <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <price>799.99</price>
+        <discount>10.0</discount>
+		
+		
+        <accessories>
+            <accessory>case</accessory>
+            <accessory>ear_cushion</accessory>
+        </accessories>
+    </phone>
+
+<phone id="018">
+    <image>iPhone7.jpg</image>
+        <name>phone1</name>
+         <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <price>799.99</price>
+        <discount>10.0</discount>
+		
+		
+        <accessories>
+            <accessory>case</accessory>
+            <accessory>ear_cushion</accessory>
+        </accessories>
+    </phone>
+
+
+<phone id="019">
+    <image>iPhone7.jpg</image>
+        <name>phone1</name>
+         <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <price>799.99</price>
+        <discount>10.0</discount>
+		
+		
+        <accessories>
+            <accessory>case</accessory>
+            <accessory>ear_cushion</accessory>
+        </accessories>
+    </phone>
+
+
+<phone id="020">
+    <image>iPhone7.jpg</image>
+        <name>phone1</name>
+         <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <price>799.99</price>
+        <discount>10.0</discount>
+		
+		
+        <accessories>
+            <accessory>case</accessory>
+            <accessory>ear_cushion</accessory>
+        </accessories>
+    </phone>
+
+<phone id="021">
+    <image>iPhone7.jpg</image>
+        <name>phone1</name>
+         <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <price>799.99</price>
+        <discount>10.0</discount>
+		
+		
+        <accessories>
+            <accessory>charger</accessory>
+            <accessory>battery</accessory>
+        </accessories>
+    </phone>
+
+<phone id="022">
+    <image>iPhone7.jpg</image>
+        <name>phone1</name>
+         <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <price>799.99</price>
+        <discount>10.0</discount>
+		
+		
+        <accessories>
+            <accessory>charger</accessory>
+            <accessory>battery</accessory>
+        </accessories>
+    </phone>
+
+<phone id="023">
+    <image>iPhone7.jpg</image>
+        <name>phonem</name>
+         <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <price>799.99</price>
+        <discount>10.0</discount>
+		
+		
+        <accessories>
+            <accessory>charger</accessory>
+            <accessory>battery</accessory>
+        </accessories>
+    </phone>
+
+
+<phone id="024">
+    <image>iPhone7.jpg</image>
+        <name>phonem1</name>
+         <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <price>799.99</price>
+        <discount>10.0</discount>
+		
+		
+        <accessories>
+            <accessory>charger</accessory>
+            <accessory>battery</accessory>
+        </accessories>
+    </phone>
+
+
+
+<phone id="025">
+    <image>iPhone7.jpg</image>
+        <name>phonems</name>
+         <manufacturer>sony</manufacturer>
+        <condition>New</condition>
+        <price>799.99</price>
+        <discount>10.0</discount>
+		
+		
+        <accessories>
+            <accessory>charger</accessory>
+            <accessory>battery</accessory>
+        </accessories>
+    </phone>
+
+
+<phone id="026">
+    <image>iPhone7.jpg</image>
+        <name>phonems1</name>
+         <manufacturer>sony</manufacturer>
+        <condition>New</condition>
+        <price>799.99</price>
+        <discount>10.0</discount>
+		
+		
+        <accessories>
+            <accessory>charger</accessory>
+            <accessory>battery</accessory>
+        </accessories>
+    </phone>
+
+
+<Laptop id="027">
+    <image>iPhone7.jpg</image>
+        <name>laptop</name>
+         <manufacturer>Lenovo</manufacturer>
+        <condition>New</condition>
+        <price>799.99</price>
+        <discount>10.0</discount>
+		
+		
+        <accessories>
+            <accessory>charger</accessory>
+            <accessory>battery</accessory>
+        </accessories>
+    </Laptop>
+
+<Laptop id="028">
+    <image>iPhone7.jpg</image>
+        <name>laptop</name>
+         <manufacturer>Lenovo1</manufacturer>
+        <condition>New</condition>
+        <price>799.99</price>
+        <discount>10.0</discount>
+		
+		
+        <accessories>
+            <accessory>charger</accessory>
+            <accessory>battery</accessory>
+        </accessories>
+    </Laptop>
+
+
+
+<Laptop id="029">
+    <image>iPhone7.jpg</image>
+        <name>laptopa</name>
+         <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <price>799.99</price>
+        <discount>10.0</discount>
+		
+		
+        <accessories>
+            <accessory>charger</accessory>
+            <accessory>battery</accessory>
+        </accessories>
+    </Laptop>
+
+<Laptop id="030">
+    <image>iPhone7.jpg</image>
+        <name>laptopa1</name>
+         <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <price>799.99</price>
+        <discount>10.0</discount>
+		
+		
+        <accessories>
+            <accessory>charger</accessory>
+            <accessory>battery</accessory>
+        </accessories>
+    </Laptop>
+
+
+<Laptop id="031">
+    <image>iPhone7.jpg</image>
+        <name>laptopm</name>
+         <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <price>799.99</price>
+        <discount>10.0</discount>
+		
+		
+        <accessories>
+            <accessory>charger</accessory>
+            <accessory>battery</accessory>
+        </accessories>
+    </Laptop>
+
+<Laptop id="032">
+    <image>iPhone7.jpg</image>
+        <name>laptopm1</name>
+         <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <price>799.99</price>
+        <discount>10.0</discount>
+		
+		
+        <accessories>
+            <accessory>charger</accessory>
+            <accessory>battery</accessory>
+        </accessories>
+    </Laptop>
+
+<Storage id="032">
+    <image>iPhone7.jpg</image>
+        <name>storage</name>
+         <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <price>799.99</price>
+        <discount>10.0</discount>
+		
+		
+        <accessories>
+            <accessory>charger</accessory>
+            <accessory>battery</accessory>
+        </accessories>
+    </Storage>
+
+
+<Storage id="033">
+    <image>iPhone7.jpg</image>
+        <name>storage1</name>
+         <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <price>799.99</price>
+        <discount>10.0</discount>
+		
+		
+        <accessories>
+            <accessory>charger</accessory>
+            <accessory>battery</accessory>
+        </accessories>
+    </Storage>
+
+
+<Storage id="034">
+    <image>iPhone7.jpg</image>
+        <name>storage1</name>
+         <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <price>799.99</price>
+        <discount>10.0</discount>
+		
+		
+        <accessories>
+            <accessory>charger</accessory>
+            <accessory>battery</accessory>
+        </accessories>
+    </Storage>
+
+</ProductCatalog>
+
+<AccessoryCatalog>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+        
+        
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
