@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><TelevisionCatalog>
+
+	<tv id="016" retailer="SmartPortables">
+        <tvImage>images/j5200.jpg</tvImage>
+        <tvName>J 5200 40"</tvName>
+		<tvCompany>Samsung</tvCompany>
+        <tvCondition>New</tvCondition>
+        <tvPrice>329.99</tvPrice>
+		<tvColor>Silver</tvColor>
+    </tv>
+	
+	<tv id="017" retailer="SmartPortables">
+        <tvImage>images/xbr.jpg</tvImage>
+        <tvName>XBR 65"</tvName>
+		<tvCompany>Sony</tvCompany>
+        <tvCondition>New</tvCondition>
+        <tvPrice>1549.99</tvPrice>
+		<tvColor>Black</tvColor>
+    </tv>
+	
+	<tv id="018" retailer="SmartPortables">
+        <tvImage>images/49Lh.jpg</tvImage>
+        <tvName>49LH 49"</tvName>
+		<tvCompany>LG</tvCompany>
+        <tvCondition>New</tvCondition>
+        <tvPrice>429.99</tvPrice>
+		<tvColor>Grey</tvColor>
+    </tv>
+	
+	<tv id="019" retailer="SmartPortables">
+        <tvImage>images/lc65.jpg</tvImage>
+        <tvName>Toshiba 55"</tvName>
+		<tvCompany>Toshiba</tvCompany>
+        <tvCondition>New</tvCondition>
+        <tvPrice>478.99</tvPrice>
+		<tvColor>Black</tvColor>
+    </tv>
+	
+	<tv id="548" retailer="SmartPortables">
+        <tvImage>images/westinghouse55.jpg</tvImage>
+        <tvName>Westinghouse 40"</tvName>
+		<tvCompany>Westinghouse</tvCompany>
+        <tvCondition>New</tvCondition>
+        <tvPrice>350.99</tvPrice>
+		<tvColor>Black</tvColor>
+    </tv>
+	
+
+</TelevisionCatalog>

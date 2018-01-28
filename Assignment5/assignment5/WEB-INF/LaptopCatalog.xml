@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><LaptopCatalog>
+
+	<laptop id="011" retailer="SmartPortables">
+        <laptopImage>images/macbookAir.jpg</laptopImage>
+        <laptopName>Macbook Air</laptopName>
+		<laptopCompany>Apple</laptopCompany>
+        <laptopCondition>New</laptopCondition>
+        <laptopPrice>849</laptopPrice>
+		<laptopColor>Silver</laptopColor>
+    </laptop>
+	
+	<laptop id="012" retailer="SmartPortables">
+        <laptopImage>images/surfacePro4.jpg</laptopImage>
+        <laptopName>Surface Pro 4</laptopName>
+		<laptopCompany>Microsoft</laptopCompany>
+        <laptopCondition>New</laptopCondition>
+        <laptopPrice>839.99</laptopPrice>
+		<laptopColor>Blue</laptopColor>
+    </laptop>
+	
+	<laptop id="013" retailer="SmartPortables">
+        <laptopImage>images/xps13.jpg</laptopImage>
+        <laptopName>XPS 13</laptopName>
+		<laptopCompany>Dell</laptopCompany>
+        <laptopCondition>New</laptopCondition>
+        <laptopPrice>1699.99</laptopPrice>
+		<laptopColor>Matte Black</laptopColor>
+    </laptop>
+	
+	<laptop id="014" retailer="SmartPortables">
+        <laptopImage>images/yoga710.jpg</laptopImage>
+        <laptopName>Yoga 710</laptopName>
+		<laptopCompany>Lenovo</laptopCompany>
+        <laptopCondition>Refurbished</laptopCondition>
+        <laptopPrice>549.99</laptopPrice>
+		<laptopColor>Black</laptopColor>
+    </laptop>
+	
+	<laptop id="015" retailer="SmartPortables">
+        <laptopImage>images/envy.jpg</laptopImage>
+        <laptopName>Envy</laptopName>
+		<laptopCompany>HP</laptopCompany>
+        <laptopCondition>New</laptopCondition>
+        <laptopPrice>799.99</laptopPrice>
+		<laptopColor>Black</laptopColor>
+    </laptop>
+
+</LaptopCatalog>

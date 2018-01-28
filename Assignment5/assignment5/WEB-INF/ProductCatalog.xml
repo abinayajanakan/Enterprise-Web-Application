@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ProductCatalog>
+    <smartphone id="001" retailer="SmartPortables">
+        <image>iPhone7.jpg</image>
+        <name>iPhone7</name>
+		<company>Apple</company>
+        <condition>New</condition>
+        <price>799.99</price>
+		<color>Black</color>
+		<description>iPhone 7 features an all-new 12MP camera with an ƒ/1.8 aperture for great low-light photos and 4K video. Optical image stabilization. A 4.7-inch Retina HD display with wide color and 3D Touch. An A10 Fusion chip for up to 2x faster performance than iPhone 6. Touch ID. Faster LTE. The longest battery life in an iPhone. Immersive stereo sound, splash and water resistant, and iOS 10.</description>
+        <accessories>
+            <accessory>iPhone7 case</accessory>
+            <accessory>iPhone7 earphones</accessory>
+        </accessories>
+    </smartphone>
+	
+	<smartphone id="002" retailer="SmartPortables">
+        <image>galaxyS7.jpg</image>
+        <name>Galaxy S7</name>
+		<company>Samsung</company>
+        <condition>New</condition>
+        <price>670.99</price>
+		<color>Space Grey</color>
+		<description>Make the Samsung Galaxy S7 edge your go-to phone, and enjoy its slim profile and water-resistant design. All it takes is one swipe to see breaking news, incoming texts and the latest scores, and the quad HD super AMOLED display shows it in stunning clarity. The Samsung Galaxy S7 edge features dual-pixel technology for professional-quality photos.</description>
+        <accessories>
+            <accessory>Samsung Charging Dock</accessory>
+            <accessory>Samsung Usb Cable</accessory>
+        </accessories>
+    </smartphone>
+	
+	<smartphone id="003" retailer="SmartPortables">
+        <image>escape2.jpg</image>
+        <name>Escape 2</name>
+		<company>LG</company>
+        <condition>New</condition>
+        <price>565.99</price>
+		<color>White</color>
+		<description>Stay connected at home and on the go with 4G LTE speed and Wi-Fi. You'll also be ready to capture special moments as they unfold, thanks to 8.0MP rear-facing and 2.0MP front-facing cameras.</description>
+        <accessories>
+            <accessory>LG Watch</accessory>
+            <accessory>LG Powerbank</accessory>
+        </accessories>
+    </smartphone>
+	
+	<smartphone id="004" retailer="SmartPortables">
+        <image>oneA9.jpg</image>
+        <name>One A-9</name>
+		<company>HTC</company>
+        <condition>New</condition>
+        <price>549.99</price>
+		<color>Black</color>
+		<description>With a 5" HD AMOLED touch screen, this cell phone brings your favorite media to life. The Qualcomm Snapdragon 617 processor and 3GB of RAM provide fast, powerful processing.</description>
+        <accessories>
+            <accessory>HTC Earphones</accessory>
+            <accessory>HTC Charger</accessory>
+        </accessories>
+    </smartphone>
+	
+	<smartphone id="005" retailer="SmartPortables">
+        <image>motog4.jpg</image>
+        <name>Moto G4</name>
+		<company>Motorola</company>
+        <condition>New</condition>
+        <price>199.99</price>
+		<color>Black</color>
+		<description>Stay in touch with loved ones with this unlocked Motorola Moto G phone. It has a thin, lightweight design for comfort and a micro-texture back and rounded edges for an enhanced grip. TurboPower-enabled charging provides extra battery juice in 15 minutes, and you can talk with others via any carrier with this unlocked Motorola Moto G phone.</description>
+        <accessories>
+            <accessory>Motorola Watch</accessory>
+            <accessory>MotoG Earphones</accessory>
+        </accessories>
+    </smartphone>
+	
+	<tablet id="006" retailer="SmartPortables">
+        <image>ipadAir2.jpg</image>
+        <name>iPad Air 2</name>
+		<company>Apple</company>
+        <condition>New</condition>
+        <price>349.99</price>
+		<color>Grey</color>
+		<description>The thinnest iPad ever is also the most capable. It's loaded with advanced technologies, including the Touch ID fingerprint sensor.</description>
+        <accessories>
+            <accessory>iPad Charger</accessory>
+        </accessories>
+    </tablet>
+	
+	<tablet id="007" retailer="SmartPortables">
+        <image>galaxytabA.jpg</image>
+        <name>Galaxy Tab A</name>
+		<company>Samsung</company>
+        <condition>New</condition>
+        <price>299.59</price>
+		<color>Navy Blue</color>
+		<description>Stay connected with this Samsung Galaxy Tab A SM-T550NZAAXAR tablet, which features dual-band Wi-Fi for easy Web access. The 9.7" TFT touch screen simplifies content navigation, and a Bluetooth 4.1 interface allows wireless pairing with select devices.</description>
+        <accessories>
+            <accessory>Samsung Charger</accessory>
+        </accessories>
+    </tablet>
+	
+	<tablet id="008" retailer="SmartPortables">
+        <image>iconiaOne.jpg</image>
+        <name>Iconia One</name>
+		<company>Acer</company>
+        <condition>Refurbished</condition>
+        <price>110</price>
+		<color>White</color>
+		<description>Take your work and entertainment with you with this Acer Iconia One 10-inch tablet. The large screen is powered by 1GB of RAM and a quad-core 1.3 GHz processor for high efficiency, and 32GB of flash memory gives you plenty of file storage. The 5-megapixel rear camera lets you take photos using this Acer Iconia One 10-inch tablet anywhere. </description>
+        <accessories>
+        </accessories>
+    </tablet>
+	
+	<tablet id="009" retailer="SmartPortables">
+        <image>fire7.jpg</image>
+        <name>Fire 7</name>
+		<company>Amazon</company>
+        <condition>New</condition>
+        <price>49.99</price>
+		<color>Black</color>
+		<description>Catch up on your reading or browse the Web with this tablet, which offers access to Amazon Underground, so you can download apps and games and discover exciting new entertainment. Front and rear cameras let you capture memorable moments or chat with friends.</description>
+        <accessories>
+            <accessory>Fire Charger</accessory>
+        </accessories>
+    </tablet>
+	
+	<tablet id="010" retailer="SmartPortables">
+        <image>ipadMini2.jpg</image>
+        <name>iPad Mini 2</name>
+		<company>Apple</company>
+        <condition>New</condition>
+        <price>269.99</price>
+		<color>Grey</color>
+		<description>iPad® mini 2 has a stunning 7.9-inch Retina display with over 3.1 million pixels. It also comes with the A7 chip with 64-bit architecture, ultrafast wireless, iSight and FaceTime HD cameras, powerful apps, and up to 10 hours of battery life.1 Yet it still fits easily in one hand.</description>
+        <accessories>
+            <accessory>iPad Charger</accessory>
+        </accessories>
+    </tablet>
+	
+	<laptop id="011" retailer="SmartPortables">
+        <image>macbookAir.jpg</image>
+        <name>Macbook Air</name>
+		<company>Apple</company>
+        <condition>New</condition>
+        <price>849</price>
+		<color>Silver</color>
+		<description>MacBook Air features up to 8GB of memory, an Intel Core processor, Thunderbolt 2, great built-in apps, and all-day battery life.1 It’s thin, light, and durable enough to take everywhere you go—and powerful enough to do everything once you get there, better.</description>
+        <accessories>
+            <accessory>Macbook Air Case</accessory>
+        </accessories>
+    </laptop>
+	
+	<laptop id="012" retailer="SmartPortables">
+        <image>surfacePro4.jpg</image>
+        <name>Surface Pro 4</name>
+		<company>Microsoft</company>
+        <condition>New</condition>
+        <price>839.99</price>
+		<color>Blue</color>
+		<description>Use the 12.3" HD touch screen and the Surface Pen to navigate Web pages, write and upload content and play games. The kickstand makes it easy to adjust Surface Pro 4 for hands-free viewing or typing, and Wi-Fi lets you connect to the Internet quickly.</description>
+        <accessories>
+        </accessories>
+    </laptop>
+	
+	<laptop id="013" retailer="SmartPortables">
+        <image>xps13.jpg</image>
+        <name>XPS 13</name>
+		<company>Dell</company>
+        <condition>New</condition>
+        <price>1699.99</price>
+		<color>Matte Black</color>
+		<description>Take videos, games and photos anywhere with this Dell XPS 13-inch laptop, which includes 8GB of RAM. This laptop weighs 2.7 pounds for easy carrying in a bag or backpack. This Dell XPS 13-inch laptop runs Windows 10 Home and includes a sixth-generation Intel Core i7 processor for efficient operation.</description>
+        <accessories>
+        </accessories>
+    </laptop>
+	
+	<laptop id="014" retailer="SmartPortables">
+        <image>yoga710.jpg</image>
+        <name>Yoga 710</name>
+		<company>Lenovo</company>
+        <condition>Refurbished</condition>
+        <price>549.99</price>
+		<color>Silver</color>
+		<description>Enjoy the versatility of this Lenovo Yoga 710 laptop. It's an ultra-portable hybrid with a 360-degree hinge for laptop or tablet use, and it has a unique built-in antenna to strengthen your Wi-Fi connection. This Lenovo Yoga 710 also has a battery life of up to nine hours, letting you work wirelessly throughout the day.</description>
+        <accessories>
+        </accessories>
+    </laptop>
+	
+	<laptop id="015" retailer="SmartPortables">
+        <image>envy.jpg</image>
+        <name>Envy</name>
+		<company>HP</company>
+        <condition>New</condition>
+        <price>799.99</price>
+		<color>Black</color>
+		<description>Combine the power of a touch screen with a full-on 15.6-inch screen with this HP Envy X360 laptop. A powerful Intel Core i5 processor combines with 12GB of memory to deliver solid responses, while the 1TB hard drive gives you huge amounts of storage. Easily control your HP Envy X360 laptop in whatever manner you choose.</description>
+        <accessories>
+            <accessory>HP Bag</accessory>
+        </accessories>
+    </laptop>
+	
+	<tv id="016" retailer="SmartPortables">
+        <image>j5200.jpg</image>
+        <name>J 5200 40"</name>
+		<company>Samsung</company>
+        <condition>New</condition>
+        <price>329.99</price>
+		<color>Black</color>
+		<description>Experience movies and TV shows in clear detail with powerful sound and rich colors on a screen that fits well in a large bedroom or living room. A built-in sensor measures room lighting and adjusts accordingly to provide the best possible picture.</description>
+        <accessories>
+        </accessories>
+    </tv>
+	
+	<tv id="017" retailer="SmartPortables">
+        <image>xbr.jpg</image>
+        <name>XBR 65"</name>
+		<company>Sony</company>
+        <condition>New</condition>
+        <price>1549.99</price>
+		<color>Black</color>
+		<description>This Sony 65-inch 4K HDR TV is slim enough to place or mount in most areas. Android TV offers more entertainment options, and Sony's 4K processor X1 generates a wider brightness range than typical LED TVs. Use a smartphone to quickly find information and search by voice command on this Sony 65-inch 4K HDR TV.</description>
+        <accessories>
+        </accessories>
+    </tv>
+	
+	<tv id="018" retailer="SmartPortables">
+        <image>49Lh.jpg</image>
+        <name>49LH 49"</name>
+		<company>LG</company>
+        <condition>New</condition>
+        <price>429.99</price>
+		<color>Grey</color>
+		<description>Retreat to your favorite shows, movies or streamed media with this LG 48.7-inch HD TV. Impressive contrasts and vivid colors thanks to the LED technology mean unmatched picture quality, and the 10W speakers create impressive audio. Smart TV functionality allows you to connect your Wi-Fi to stream media directly to this LG 48.7-inch HD TV. </description>
+        <accessories>
+        </accessories>
+    </tv>
+	
+	<tv id="019" retailer="SmartPortables">
+        <image>lc65.jpg</image>
+        <name>LC65 65"</name>
+		<company>Sharp</company>
+        <condition>New</condition>
+        <price>569.99</price>
+		<color>Black</color>
+		<description>Immerse yourself in high-resolution video with this 65-inch Sharp 4K smart TV. Wide viewing angles let you gather groups for movie night without anyone suffering poor picture quality, and integrated AquoMotion technology delivers blur-free images during fast-moving scenes. Four HDMI connections and one USB port let you connect multiple sources to this Sharp 4K smart TV.</description>
+        <accessories>
+        </accessories>
+    </tv>
+	
+	<tv id="020" retailer="SmartPortables">
+        <image>e60u.jpg</image>
+        <name>E60U 60"</name>
+		<company>Vizio</company>
+        <condition>New</condition>
+        <price>699.99</price>
+		<color>Black</color>
+		<description>Enhance your entertainment experience with this 60-inch VIZIO E-Series UHD home theater display. It uses LED backlighting and 10 active LED zones to deliver stunning graphics. Stream your favorite media using the Google Cast app, and use the Vizio SmartCast app to turn your mobile device into a powerful remote control. Featuring Chromecast built-in, the easiest way to stream apps you know and love from your phone or tablet to your VIZIO E-Series UHD home theater display.</description>
+        <accessories>
+        </accessories>
+    </tv>
+</ProductCatalog>

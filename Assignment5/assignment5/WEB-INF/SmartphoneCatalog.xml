@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><SmartphoneCatalog>
+
+    
+
+	<smartphone id="002" retailer="SmartPortables">
+        <smartPhoneImage>images/galaxyS7.jpg</smartPhoneImage>
+        <smartPhoneName>Galaxy S7</smartPhoneName>
+		<smartPhoneCompany>Samsung</smartPhoneCompany>
+        <smartPhoneCondition>New</smartPhoneCondition>
+        <smartPhonePrice>670.0</smartPhonePrice>
+		<smartPhoneColor>Navy Blue</smartPhoneColor>
+    </smartphone>
+	
+	<smartphone id="003" retailer="SmartPortables">
+        <smartPhoneImage>images/escape2.jpg</smartPhoneImage>
+        <smartPhoneName>Escape 2</smartPhoneName>
+		<smartPhoneCompany>LG</smartPhoneCompany>
+        <smartPhoneCondition>New</smartPhoneCondition>
+        <smartPhonePrice>565</smartPhonePrice>
+		<smartPhoneColor>White</smartPhoneColor>
+    </smartphone>
+	
+	<smartphone id="004" retailer="SmartPortables">
+        <smartPhoneImage>images/oneA9.jpg</smartPhoneImage>
+        <smartPhoneName>One A-9</smartPhoneName>
+		<smartPhoneCompany>HTC</smartPhoneCompany>
+        <smartPhoneCondition>New</smartPhoneCondition>
+        <smartPhonePrice>549</smartPhonePrice>
+		<smartPhoneColor>Black</smartPhoneColor>
+    </smartphone>
+	
+	<smartphone id="005" retailer="SmartPortables">
+        <smartPhoneImage>images/motog4.jpg</smartPhoneImage>
+        <smartPhoneName>Moto G4</smartPhoneName>
+		<smartPhoneCompany>Motorola</smartPhoneCompany>
+        <smartPhoneCondition>New</smartPhoneCondition>
+        <smartPhonePrice>199</smartPhonePrice>
+		<smartPhoneColor>Black</smartPhoneColor>
+		
+    </smartphone>
+	
+	<smartphone id="25291" retailer="SmartPortables">
+		<smartPhoneImage>images/iPhone7.jpg</smartPhoneImage>
+		<smartPhoneName>iPhone 5</smartPhoneName>
+		<smartPhoneCompany>Apple</smartPhoneCompany>
+		<smartPhoneCondition>New</smartPhoneCondition>
+		<smartPhonePrice>549.0</smartPhonePrice>
+		<smartPhoneColor>Black</smartPhoneColor>
+	</smartphone>
+<smartphone id="30699" retailer="BestDeal Chicago"><smartPhoneImage>images/escape2.jpg</smartPhoneImage><smartPhoneName>Escape 1</smartPhoneName><smartPhoneCompany>LG</smartPhoneCompany><smartPhoneCondition>New</smartPhoneCondition><smartPhonePrice>675</smartPhonePrice><smartPhoneColor>Grey</smartPhoneColor></smartphone></SmartphoneCatalog>
